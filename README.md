@@ -1,4 +1,4 @@
-# DSP Signal & Filter Visualizer
+# DSP Signal & Filter Visualiser
 
 ![Project maintenance status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-educational-blue)
@@ -66,7 +66,7 @@ This project helps demonstrate:
 * Signal sampling in the time domain
 * Effects of random noise on signals
 * Noise reduction using smoothing and low-pass filtering
-* Interactive visualization of DSP concepts
+* Interactive visualisation of DSP concepts
 
 It is especially useful for **engineering students, DSP beginners, and classroom demonstrations**.
 
@@ -76,7 +76,7 @@ It is especially useful for **engineering students, DSP beginners, and classroom
 
 Potential extensions for this project include:
 
-* Frequency-domain visualization using FFT
+* Frequency-domain visualisation using FFT
 * Additional digital filters (FIR, Butterworth, etc.)
 * Signal export to CSV or WAV files
 * Animation controls such as pause/play
