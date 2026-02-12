@@ -3,7 +3,7 @@
 ![Project maintenance status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-educational-blue)
 
-A simple **Digital Signal Processing (DSP) visualizer** built entirely with Python’s built-in libraries.
+A simple **Digital Signal Processing (DSP) visualiser** built entirely with Python’s built-in libraries.
 The application allows users to generate different signal types, apply basic filters, and view both the original and filtered signals in real time through an interactive graphical interface.
 
 This project is designed primarily for **learning and demonstration purposes**, helping students and beginners understand how sampling, noise, and filtering behave in the time domain without needing external scientific libraries.
